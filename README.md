@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mbeke! <br/>Passionate Cloud Security Engineer</h1>
+<h1>Hi, I'm Mbeke! <br/>Passionate Cloud Security Professional</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
