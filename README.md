@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure / Cloud Projects</b>
+  - [e-Portfolio following the Cloud Resume Challenge](https://github.com/mbekesithole/portfolio_html_css_js)
   - [Creating a live SOC / Honeynet in Azure](https://github.com/mbekesithole/Azure-SOC)
 
 
